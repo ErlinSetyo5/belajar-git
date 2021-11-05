@@ -3,3 +3,5 @@
 - belajar git bareng
 
 - nambahin file read me
+
+- nambahin kode
